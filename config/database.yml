@@ -14,7 +14,7 @@ development:
   database: test
   hostname: 127.0.0.1
   username: root
-  password: sustain@TUFTS
+  password: none
   socket: /tmp/mysql.sock
   pool: 5
   timeout: 5000
@@ -27,7 +27,7 @@ test:
   database: test
   hostname: 127.0.0.1
   username: root
-  password: sustain@TUFTS
+  password: none
   socket: /tmp/mysql.sock
   pool: 5
   timeout: 5000
