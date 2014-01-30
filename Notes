@@ -1,0 +1,10 @@
+
+TO DO
+=======
+
+1. Configure default url options in config/environments/production.rb
+
+  # Configure default url options. This is necessary for the devise gem.
+  config.action_mailer.default_url_options = { :host => 'HOST OF APPLICATION'}
+
+2.
