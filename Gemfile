@@ -10,9 +10,9 @@ gem 'will_paginate', '3.0.4'
 gem 'bootstrap-will_paginate', '0.0.9'
 gem "paperclip", '~> 3.0'
 gem 'cocaine', '0.5.3'
-gem 'mysql', '2.9.1'
+#gem 'mysql', '2.9.1'
 gem 'devise', '3.0'
-# gem 'sqlite3', '1.3.8'
+gem 'sqlite3', '1.3.8'
 
 group :development, :test do
   gem 'rspec-rails', '2.13.1'
